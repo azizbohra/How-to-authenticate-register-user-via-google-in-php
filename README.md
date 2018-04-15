@@ -1,4 +1,4 @@
-How to authenticate/register user via google in php
+#How to authenticate/register user via google in php
 
 You have often seen this option in many websites or mobile application. so why this option is getting popularity & what are the benefits of giving this option to user. In this article i will show you what are the benefits of it & how to authenticate user via google in php.
 
